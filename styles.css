@@ -1,4 +1,39 @@
-.head1 {
-    color: blue;
-    
+.head {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Brush Script MT', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+#head1 {
+    font-size: 48px;
+}
+.head.head2 {
+    background-color: rgb(9, 7, 141);
+    font-size: 38px;
+}
+.head.head3 {
+    background-color: rgb(9, 7, 141);
+    font-size: 38px;
+}
+#head3 {
+    color: brown;
+}
+.img1 {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+}
+.para {
+    font-size: 28px;
+}
+.pri {
+    color: blueviolet;
+    font-size: 33px;
+}
+li {
+    font-size: 20px;
+    background-color: beige;
+    text-align: center;
+}
+
