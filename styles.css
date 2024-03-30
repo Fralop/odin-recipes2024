@@ -1,6 +1,11 @@
 body {
     background-color: black;
 }
+div {
+    border: 2px solid orange;
+    width: 423gitpx;
+    margin: auto;
+}
 .head, #head3 {
     color: white;
     background-color: black;
